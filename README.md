@@ -1,0 +1,2 @@
+Scala Exercises
+Enjoy !
